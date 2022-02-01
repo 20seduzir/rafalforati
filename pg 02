@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pagina verde</title>
+    <link rel="shortcut icon" href="../desafio 01/Graphics-Vibe-Developer-Html-5.ico" type="image/x-icon">
+    <!--Neste aqui voce escolhe o link : favicon-->
+    <style>
+        body{
+            background-color: rgb(79, 177, 79);
+        }
+    </style>
+</head>
+<body>
+    <h1>Pagina 02 verde</h1>
+    <p>Para mudar a cor da pagina e ir para a pagina principal basta clicar aqui </p>
+
+    <ul>
+        <li>
+            <a href="index.html">Pagina principal</a>
+        </li>
+    </ul>
+</body>
+</html>
