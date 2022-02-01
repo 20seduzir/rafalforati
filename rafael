@@ -86,3 +86,33 @@
     
 </body>
 </html>
+
+    <hr>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2>Navegue entre as paginas</h2>
+    <p>Basta clicar aqui</p>
+    <ul>
+        <li><a href="indexpg02.html">pagina verde</a></li>
+    </ul>
+    tchau :( volte sempre
+
+    <hr>
+    <br>
+    <br>
+    <br>
+
+    <hr>
+
+    <div>
+        <h1>Videos legais para assisitir</h1>
+        <ul>
+            <li><a href="paginavideo1.html"><img src="../geralzão/imagens/imagemg.png" width="300" alt="imagem"></a></li>
+        </ul>
+    </div>
+
+    
+</body>
+</html>
